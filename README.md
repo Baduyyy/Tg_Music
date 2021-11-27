@@ -62,6 +62,6 @@ TAP INI: [![GenerateString](https://img.shields.io/badge/repl.it-generateString-
 
 ### Credits ❤
 
-- **[Kaizen](https://github.com/Baduyyy)** (Dev)    
+- **[Baduyyy](https://github.com/Baduyyy)** (Dev)    
 - **Vivek** (Dev)
 
