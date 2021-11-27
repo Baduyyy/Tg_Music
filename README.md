@@ -1,6 +1,6 @@
 <h2 align="centre"> Tg Music Bot</h2>
 
-*** Music bot yang dapat memutar di obrolan suara  group telegram anda.
+** Music bot yang dapat memutar di obrolan suara  group telegram anda.
 
 </p>
 
