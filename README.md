@@ -1,6 +1,6 @@
 <h2 align="centre"> Tg Music Bot</h2>
 
-<h2 align="centre"> Music bot yang dapat memutar di obrolan suara  group telegram anda</h2>
+<h2 align="centre"> Music bot that can play in your telegram group voice chat</h2>
 
 </p>
 
@@ -15,39 +15,39 @@
 
 TAP INI: [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Jancukmu/SpatialFailingBracket?v=1)
 
-** Bantuan ⛏️
+** Help ⛏️
 
-- `/play <nama lagu>` - putar lagu yang Anda minta
-- `/playlist` - Tampilkan daftar yang sedang diputar
-- `/current` - Tampilkan sedang diputar
-- `/song <song name>` - unduh lagu yang Anda inginkan dengan cepat
-- `/search <query>` - cari video di youtube dengan detail
-- `/vsong <nama lagu>` - unduh video yang Anda inginkan dengan cepat
+- `/play <song name>` - play the song you requested
+- `/playlist` - Show currently playing list
+- `/current` - Show currently playing
+- `/song <song name>` - quickly download the song you want
+- `/search <query>` - search videos on youtube with details
+- `/vsong <song name>` - quickly download the video you want
 
-**** Hanya Admin ️
-- `/player` - buka panel pengaturan pemutar musik
-- `/pause` - jeda pemutaran lagu
-- `/resume` - melanjutkan pemutaran lagu
-- `/skip` - putar lagu berikutnya
-- `/end` - hentikan pemutaran musik
-- `/musicplayer on` - untuk menonaktifkan pemutar musik di grup Anda
-- `/musicplayer off` - untuk mengaktifkan pemutar musik di grup Anda
-- `/userbotjoin` - undang asisten ke obrolan Anda
-- `/userbotleave` - hapus asisten dari obrolan Anda
-- `/reload` - Segarkan daftar admin
-- `/ uptime` - periksa status uptime bot
-- `/ ping` - periksa status ping bot
+**** Admin Only ️
+- `/player` - open music player settings panel
+- `/pause` - pause song playback
+- `/resume` - resume song playback
+- `/skip` - play next song
+- `/end` - stop music playing
+- `/musicplayer on` - to disable the music player in your group
+- `/musicplayer off` - to turn on the music player in your group
+- `/userbotjoin` - invite assistant to your chat
+- `/userbotleave` - remove assistant from your chat
+- `/reload` - Refresh admin list
+- `/uptime` - check bot uptime status
+- `/ping` - check bot ping status
 
-*** Pengguna Sudo ️
-- `/ppermit pada | off` nyalakan/matikan asisten pmpermit
-- `/userbotleaveall` - perintahkan asisten untuk keluar dari semua grup
-- `/gcast` - mengirim pesan siaran
+*** Sudo users ️
+- `/permit on | off` turn on/off the pmpermit assistant
+- `/userbotleaveall` - instruct assistant to exit all groups
+- `/gcast` - send broadcast messages
 
-*** pm-izin
-- `.yes` - menyetujui pengguna untuk mengirim pesan ke asisten
-- `.no` - menolak pengguna untuk mengirim pesan ke asisten
+*** pm-permission
+- `.yes` - approve user to send message to assistant
+- `.no` - refuse the user to message the assistant
 
-** 🔎 Mendukung Pencarian Sebaris
+** Supports Inline Search 🔍
 
 *** Deploy To Heroku 📡</h4>
 
