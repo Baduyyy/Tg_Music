@@ -1,7 +1,6 @@
-<h2 align="centre">☣️ Kaizen Music Bot</h2>
+<h2 align="centre"> Tg Music Bot</h2>
 
 *** Music bot yang dapat memutar di obrolan suara  group telegram anda.
-<p align="center"><a href="https://t.me/Hajigobangbot"><img src="https://telegra.ph/file/6447deaec9fc365cd6d1e.jpg" width="300"></a></p>
 
 </p>
 
@@ -57,11 +56,7 @@ TAP INI: [![GenerateString](https://img.shields.io/badge/repl.it-generateString-
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
-*** Support & Updates 💌
-<a href="https://t.me/kaizensupport"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/zen_update"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-
-### Credits ❤
+### Credits 
 
 - **[Baduyyy](https://github.com/Baduyyy)** (Dev)    
-- **Vivek** (Dev)
 
